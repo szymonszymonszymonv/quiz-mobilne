@@ -88,4 +88,12 @@
         android:textStyle="bold"
         app:backgroundTint="#D5D2D2" />
 
+    <Button
+        android:id="@+id/prompt_button"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:text="Podpowiedź"
+        android:textColor="#000000"
+        app:backgroundTint="#D5D2D2" />
+
 </LinearLayout>
